@@ -1,1 +1,1 @@
-from PyQt5 improt *
+print("hello")
